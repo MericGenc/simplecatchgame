@@ -1,0 +1,2 @@
+rootProject.name = "CatchTheFigure"
+include ':app'
